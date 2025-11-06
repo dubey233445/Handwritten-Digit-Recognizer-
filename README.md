@@ -102,8 +102,8 @@ A simple GUI built with **Tkinter** lets users draw digits on a canvas. The trai
 ## 💻 How to Run the Project
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/handwritten-digit-recognizer.git
-cd handwritten-digit-recognizer
+git clone https://github.com/dubey233445/Handwritten-Digit-Recognizer-/tree/main
+cd Handwritten-Digit-Recognizer
 ```
 
 ### 2. Install Dependencies
