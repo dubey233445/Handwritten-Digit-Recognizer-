@@ -123,13 +123,6 @@ python app.py
 
 ---
 
-## 📸 Screenshots
-(Add screenshots of your CNN accuracy graph, GUI digit drawer, and prediction output here.)  
-
-| Model Accuracy | GUI Interface | Prediction Output |
-|-----------------|----------------|------------------|
-| ![Accuracy Graph](assets/accuracy.png) | ![GUI App](assets/gui.png) | ![Result](assets/result.png) |
-
 ---
 
 ## 🚀 Future Enhancements
@@ -150,9 +143,9 @@ Special thanks to **Growfinix Technology** for providing this incredible opportu
 ## 🧩 Author
 **Ashish Dubey**  
 AI Intern @ Growfinix Technology  
-📧 [your-email@example.com]  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)  
-🐙 [GitHub Profile](https://github.com/your-username)  
+📧 [dubeyashish8957@gmail.com]  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/ashish-dubey-8904a52b3/)  
+🐙 [GitHub Profile](https://github.com/dubey233445)  
 
 ---
 
